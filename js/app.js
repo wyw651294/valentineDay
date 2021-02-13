@@ -74,7 +74,7 @@
 			if (func !== undefined) {
 				func();
 				L.FX.fadeIn(document.getElementById('results'), {
-					duration: 3000, complete: function () {
+					duration: 6000, complete: function () {
 					}
 				});
 			}
